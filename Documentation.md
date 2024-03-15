@@ -5,7 +5,7 @@ The digital logic design of random number generators using basic
 components is a popular topic among digital IC designers in terms of their
 speed compatibility and uncomplicated integration to digital platforms. The most common method for generating random numbers using digital logic
 is to use **shift registers**. A shift register is a digital circuit that can be used to
-store and shift data. It can be used to generate random numbers usingfeedback from the output of the shift register to its input. Another method for generating random numbers using digital logic is to use
+store and shift data. It can be used to generate random numbers using feedback from the output of the shift register to its input. Another method for generating random numbers using digital logic is to use
 oscillators. Oscillators are circuits that produce periodic signals. By using two
 oscillators with different frequencies and feeding their outputs into an XOR
 gate, it is possible to generate a random sequence of bits. As mentioned earlier, shift registers are commonly used in digital logic design of random number generators. 
