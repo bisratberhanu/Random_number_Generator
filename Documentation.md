@@ -54,6 +54,7 @@ toggle the simulation can change its mode of work from shift to load and load
 to shift
 
 Fig2: the parallel Load of the shift register
+
 ![alt text](Images/image-1.png)
 
 6, the output of the last 3 flip flops were connected to the input of the first flip
