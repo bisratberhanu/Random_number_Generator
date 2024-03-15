@@ -4,7 +4,7 @@ This project is a random number generator implemented using shift registers in P
 
 ## Documentation
 
-The documentation for this project can be found in the [Documentation](./Documentation) directory. It provides detailed information about the project, including the circuit diagram, component list, and step-by-step instructions for building and running the random number generator.
+The documentation for this project can be found in the [Documentation](./Documentation) file. It provides detailed information about the project, including the circuit diagram, component list, and step-by-step instructions for building and running the random number generator.
 
 ## Getting Started
 
